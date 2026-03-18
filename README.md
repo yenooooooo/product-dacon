@@ -40,7 +40,8 @@
 | 파일 | 설명 |
 |------|------|
 | `jeju_bus_teamE1i4.ipynb` | 최종 통합 노트북 (EDA + 전처리 + 피처 엔지니어링 + 모델링 + 제출) |
-| `teamplan1_speaker_notes.md` | 30분 발표 스크립트 (33장 슬라이드, 예상 질문 대응 포함) |
+| `teamplan1_presentation final.pptx` | 30분 발표 PPT (33장 슬라이드) |
+| `teamplan1_speaker_notes.md` | 발표 스크립트 (슬라이드별 대본 + 예상 질문 대응 포함) |
 
 ---
 
